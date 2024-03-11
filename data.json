@@ -1,0 +1,63 @@
+"detail_list": [
+    {
+        id: 202303090001,
+        order_mode: 0,
+        order_sn: "202303090001",
+        bike_sn: "T010001",
+        distance: 24,
+        end: "海外 海外",
+        mobile: "17688546274",
+        mode: 1,
+        start: "广东省 中山市",
+        username: "李强1"
+    },
+    {
+        id: 202303090002,
+        order_mode: 1,
+        order_sn: "202303090002",
+        bike_sn: "T010001",
+        distance: 12,
+        end: "海外 海外",
+        mobile: "17688546274",
+        mode: 1,
+        start: "广东省 中山市",
+        username: "李强2"
+    },
+    ,
+    {
+        id: 202303090003,
+        order_mode: 1,
+        order_sn: "202303090003",
+        bike_sn: "T010001",
+        distance: 12,
+        end: "海外 海外",
+        mobile: "17688546274",
+        mode: 1,
+        start: "广东省 中山市",
+        username: "李强3"
+    },
+    {
+        id: 202303090004,
+        order_mode: 1,
+        order_sn: "202303090004",
+        bike_sn: "T010001",
+        distance: 12,
+        end: "海外 海外",
+        mobile: "17688546274",
+        mode: 1,
+        start: "广东省 中山市",
+        username: "李强4"
+    },
+    {
+        id: 202303090005,
+        order_mode: 1,
+        order_sn: "202303090005",
+        bike_sn: "T010001",
+        distance: 20,
+        end: "海外 海外",
+        mobile: "17688546274",
+        mode: 0,
+        start: "广东省 中山市",
+        username: "李强5"
+    }
+]
